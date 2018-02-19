@@ -135,10 +135,10 @@ mark {
 }
 
 .line-content,
+.line-content span,
 .line-content mark {
   font-size: 18px;
   line-height: 30px;
-  letter-spacing: 4px;
   opacity: 85%;
 }
 .line-content mark {
@@ -344,6 +344,11 @@ mark {
   letter-spacing: 4px;
   padding-top: 10rem;
 }
+
+.item {
+  display: none;
+}
+
 
 @media all and (min-width: 750px) {
   .introduction {
