@@ -1,4 +1,4 @@
-$(document).ready(function () {
+/* $(document).ready(function () {
     function ItemFadeIn(selector) {
         var items = $(selector);
         var index = 0;
@@ -12,4 +12,4 @@ $(document).ready(function () {
     }
 
     ItemFadeIn('.item');
-});
+}); */
